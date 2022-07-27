@@ -1,3 +1,7 @@
+MQTT서버 활용 센서 5종 데이터 융합 프로젝트 코드
+센서 5종의 데이터를 가공 및 융합하여 원하는 데이터를 각 데이터베이스에 저장 후 사용
+
+
 # Test_MQTT_Server
 sensor MQTT server create
 
